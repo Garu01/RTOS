@@ -1,0 +1,16 @@
+main.c:75:6:Valve1fertilizeON	8	static
+main.c:79:6:Valve1fertilizeOFF	8	static
+main.c:84:6:Valve2fertilizeON	8	static
+main.c:88:6:Valve2fertilizeOFF	8	static
+main.c:93:6:Valve3fertilizeON	8	static
+main.c:97:6:Valve3fertilizeOFF	8	static
+main.c:102:6:Pump1ON	8	static
+main.c:106:6:Pump1OFF	8	static
+main.c:111:6:Pump2ON	8	static
+main.c:115:6:Pump2OFF	8	static
+main.c:121:5:main	8	static
+main.c:179:6:SystemClock_Config	72	static
+main.c:215:13:MX_TIM2_Init	32	static
+main.c:260:13:MX_GPIO_Init	32	static
+main.c:282:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:295:6:Error_Handler	4	static,ignoring_inline_asm
